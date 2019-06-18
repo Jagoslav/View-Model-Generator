@@ -8,6 +8,8 @@
 
 ![View Point](./img/face.png)
 
+![Base Object](./img/base2.png)
+
 ![View Point](./img/edge.png)
 
 ![View Point](./img/vertex.png)
