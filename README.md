@@ -4,9 +4,9 @@
 ## Screenshots
 ![Screenshot](./img/base1.png)
 ![Screenshot](./img/base2.png)
-![Screenshot](./img/face.png)
-![Screenshot](./img/edge.png)
-![Screenshot](./img/vertex.png)
+![Screenshot](./img/face.png | width=500)
+![Screenshot](./img/edge.png | width=500)
+![Screenshot](./img/vertex.png | width=500)
 
 ## Technologies
 * Python 3.7.3
