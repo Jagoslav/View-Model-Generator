@@ -6,11 +6,11 @@
 
 ![Base Object](./img/base2.png)
 
-![Base Object](./img/face.png)
+![View Point](./img/face.png)
 
-![Base Object](./img/edge.png)
+![View Point](./img/edge.png)
 
-![Base Object](./img/vertex.png)
+![View Point](./img/vertex.png)
 
 ## Technologies
 * Python 3.7.3
