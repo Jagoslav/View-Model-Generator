@@ -2,17 +2,11 @@
 > A simple program used to generate specific views from a given view points at a specified (simple) object I had to analyze as one of my projects.
 
 ## Screenshots
-![Base Object](./img/base1.png)
-
-![Base Object](./img/base2.png)
-
-![View Point](./img/face.png)
-
-![Base Object](./img/base2.png)
-
-![View Point](./img/edge.png)
-
-![View Point](./img/vertex.png)
+![Screenshot](./img/base1.png)
+![Screenshot](./img/base2.png)
+![Screenshot](./img/face.png =500x500)
+![Screenshot](./img/edge.png =500x500)
+![Screenshot](./img/vertex.png =500x500)
 
 ## Technologies
 * Python 3.7.3
