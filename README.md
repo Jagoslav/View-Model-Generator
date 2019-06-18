@@ -4,9 +4,9 @@
 ## Screenshots
 ![Base Object](./img/base1.png)
 ![Base Object](./img/base2.png)
-![Example outcome](./img/faceView.png)
-![Example outcome](./img/edgeView.png)
-![Example outcome](./img/vertexView.png)
+![Base Object](./img/faceView.png)
+![Base Object](./img/edgeView.png)
+![Base Object](./img/vertexView.png)
 
 ## Technologies
 * Python 3.7.3
