@@ -3,9 +3,13 @@
 
 ## Screenshots
 ![Base Object](./img/base1.png)
+
 ![Base Object](./img/base2.png)
+
 ![Base Object](./img/faceView.png)
+
 ![Base Object](./img/edgeView.png)
+
 ![Base Object](./img/vertexView.png)
 
 ## Technologies
